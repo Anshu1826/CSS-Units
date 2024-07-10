@@ -1,0 +1,43 @@
+/* absolute px */
+/* .test {
+    font-size: 25px;
+} */
+
+/* cm */
+/* .test {
+    font-size: 1cm;
+} */
+
+/* mm */
+/* .test { 
+    font-size: 5mm;
+} */
+
+/* inch */
+/* .test {
+    font-size: 1in;
+} */
+
+/* relative % */
+/* .test li {
+    font-size: 120%;
+} */
+
+/* em */
+.test li {
+    font-size: 1.2em;
+}
+
+/* rem */
+/* .test li {
+    font-size: 2rem;
+} */
+
+/* vh, vw */
+/* .test li {
+    font-size: 2vh 2vw;
+} */
+
+body {
+    background-color: lightblue;
+}
