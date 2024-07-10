@@ -6,12 +6,12 @@ So there are basically two types of units which are used regularly on many famou
 Absolute Units: which remain fixed no matter what the screen type or size is <br />
 Relative Units: which change and adapt themselves as per their environment or parent <br />
 Absolute Units : <br />
-px<br />
-cm<br />
-mm<br />
-inch<br />
+&nbsp;px<br />
+&nbsp;cm<br />
+&nbsp;mm<br />
+&nbsp;inch<br />
 Relative Units : <br />
-%<br />
-em<br />
-rem<br />
-vh, vw<br />
+&nbsp;%<br />
+&nbsp;em<br />
+&nbsp;rem<br />
+&nbsp;vh, vw<br />
